@@ -1,18 +1,17 @@
 <h1 align="center">Hola 👋, Soy Alex</h1>
-<h3 align="center">Actualmente estoy formándome en desarrollo web.</h3>
+<h3 align="center">Fullstack Developer Junior</h3>
 
 ![followers number](https://img.shields.io/github/followers/MDSkrki?style=social)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexmonpe&label=Profile%20views&color=0e75b6&style=flat" alt="alexmonpe" /> </p>
 
-- 🔭 Actualmente estoy estudiando en **GeeksHubs Academy**
+- 🔭 Formado en **GeeksHubs Academy**
 
-- 🌱 Estoy aprendiendo **Javascript, FrontEnd and BackEnd**
+- 🌱 **Javascript, FrontEnd and BackEnd / Stack MERN**
 
 - 👨‍💻 Mis proyectos estan disponibles en: [https://github.com/AlexMonPe](https://github.com/AlexMonPe)
 
 - 📫 Contacto: **alex_bcn10@hotmail.es**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
