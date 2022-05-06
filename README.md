@@ -21,5 +21,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexmonpe&show_icons=true&locale=en&layout=compact" alt="alexmonpe" /></p>
 
+ <a href="www.linkedin.com/in/alejandro-montero-perez" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="41"/>
+  </a>
+  <a href="https://www.buymeacoffee.com/alexmonpe" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174">
+  </a>
+
 
 
