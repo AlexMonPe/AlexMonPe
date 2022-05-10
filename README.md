@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Alex</h1>
-<h3 align="center">Fullstack Developer Junior</h3>
+<h3 align="center">Fullstack Developer</h3>
 
 ![followers number](https://img.shields.io/github/followers/MDSkrki?style=social)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexmonpe&label=Profile%20views&color=0e75b6&style=flat" alt="alexmonpe" /> </p>
