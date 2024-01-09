@@ -4,11 +4,9 @@
 ![followers number](https://img.shields.io/github/followers/MDSkrki?style=social)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexmonpe&label=Profile%20views&color=0e75b6&style=flat" alt="alexmonpe" /> </p>
 
-- 🔭 Formado en **GeeksHubs Academy**
+- 🌱 **Stack MERN**
 
-- 🌱 **Javascript, FrontEnd and BackEnd / Stack MERN**
-
-- 👨‍💻 Mis proyectos estan disponibles en: [https://github.com/AlexMonPe](https://github.com/AlexMonPe)
+- 👨‍💻 Linkedin: [https://www.linkedin.com/in/alejandro-montero-perez/](https://www.linkedin.com/in/alejandro-montero-perez/)
 
 - 📫 Contacto: **alex_bcn10@hotmail.es**
 
