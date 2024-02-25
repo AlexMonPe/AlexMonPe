@@ -9,8 +9,8 @@
 
 <p align="left">
 </p>
-
-<h3 align="left">Lenguajes y herramientas</h3>
+<br />
+<h3 align="left">Lenguajes y herramientas</h3><br />
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -69,10 +69,7 @@
    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
  </a>
 </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexmonpe&show_icons=true&locale=en&layout=compact" alt="alexmonpe" /></p>
-
+<br /> <br /><br />
  <a href="www.linkedin.com/in/alejandro-montero-perez" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="41"/>
   </a>
